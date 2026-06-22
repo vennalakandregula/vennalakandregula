@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:1E3A8A&height=200&section=header&text=Kandregula%20Vennala&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 <div align="center">
 <img src="https://raw.githubusercontent.com/vennalakandregula/vennalakandregula/main/profile.jpeg" width="180"/>
 
@@ -9,6 +12,23 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vennalakandregula&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/vennala-kandregula-891a5a2b6/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://vennalakandregula.github.io/vennala-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+<a href="https://leetcode.com/u/vennela_kandregula/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/hatch_hill_75">
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
+</a>
 </p>
 ## 👩‍💻 About Me
 
@@ -27,7 +47,12 @@
 - Machine Learning
 - Full Stack Development
 - Data Analytics
-- ## 🏆 Certifications
+ ## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,git,github,vscode" />
+</p>
+## 🏆 Certifications
 
 🥈 NPTEL Elite Silver – Joy of Computing Using Python
 
@@ -42,60 +67,25 @@
 🔒 Cybersecurity Essentials
 
 💻 C Programming Certification
-## 💼 Internships & Training
+## 💼 Internships
 
-### 🤖 AWS Academy AI-ML Virtual Internship
+| Internship | Organization |
+|------------|-------------|
+| AI-ML Virtual Internship | AWS Academy |
+| Android Development Virtual Internship | AICTE • EduSkills • Google for Developers |
+| Cybersecurity Virtual Internship | AICTE |
+| Industrial Training | Tata Advanced Systems Limited (TASL) |
 
-✔ Machine Learning Fundamentals
-
-✔ Artificial Intelligence Concepts
-
-✔ Model Training & Evaluation
-
-✔ Industry-Oriented AI Applications
-
----
-
-### 📱 Android Development Virtual Internship
-(AICTE • EduSkills • Google for Developers)
-
-✔ Android Application Development
-
-✔ UI/UX Design Fundamentals
-
-✔ Mobile Application Architecture
-
-✔ Hands-on Android Project Development
-
----
-
-### 🔐 Cybersecurity Virtual Internship
-(AICTE)
-
-✔ Cybersecurity Fundamentals
-
-✔ Network Security Concepts
-
-✔ Threat Detection & Prevention
-
-✔ Security Best Practices
-
----
 
 ## 🚀 Projects
 
 ### 🌐 Portfolio Website
-Responsive personal portfolio website.
 
 ### 🎟 Multilingual Ticket Translator
-AI-powered service desk solution.
 
 ### 📅 Online Booking System
-Booking platform with modern UI.
 
 ### 💧 Water Contamination Monitoring System
-Water quality monitoring project.
-## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=vennalakandregula&show_icons=true&theme=tokyonight)
 
