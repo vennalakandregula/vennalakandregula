@@ -1,14 +1,12 @@
 <div align="center">
-
-<img src="https://github.com/vennalakandregula/vennalakandregula/blob/main/profile.jpeg)/"
+<img src="https://raw.githubusercontent.com/vennalakandregula/vennalakandregula/main/profile.jpeg" width="180"/>
 
 # 👋 Hi, I'm Kandregula Vennala
 
 ### AI & Machine Learning Enthusiast | Python Developer | Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;NPTEL+Elite+Silver+Certified;AWS+AI%2FML+Certified;Python+Developer;Welcome+to+My+GitHub+Profile"/>
-
 </div>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vennalakandregula&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
